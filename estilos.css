@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+
+
+.body{
+    background-image: 
+    url("IMG_3404.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.ituloPrincipal{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Cuadroprincipal{
+    border: 5px solid red;
+    width: 50%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
